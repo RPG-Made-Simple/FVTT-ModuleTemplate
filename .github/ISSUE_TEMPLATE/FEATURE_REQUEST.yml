@@ -1,7 +1,7 @@
 name: Feature Request
 description: Have suggestions or features that you want to see in this module? File a Feature Request :D
 title: "[FEATURE]: "
-labels: ["⬆️ Feature", "🔍 Triage"]
+labels: ["feature", "triage"]
 assignees:
   - ZotyDev
 body:
